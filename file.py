@@ -226,7 +226,7 @@ def main_apv():
 
         time.sleep(6)
 
-        os.system("xdg-open https://wa.me/+923305867095")
+        os.system("xdg-open https://wa.me/qr/+923118066577")
 
         
 
@@ -264,7 +264,7 @@ def main_apv():
 
         time.sleep(3.5)
 
-        os.system("xdg-open https://wa.me/+923305867095")
+        os.system("xdg-open https://wa.me/qr/+923118066577")
 
 		
 
@@ -304,7 +304,7 @@ def R():
 
 				time.sleep(0.5)
 
-				os.system('xdg-open https://wa.me/+923305867095')
+				os.system('xdg-open https://wa.me/qr/+923118066577')
 
 			
 
@@ -1043,7 +1043,7 @@ def ff():
 
 def dupcutter():
 
-	os.system("xdg-open https://wa.me/qr/KCKOJU72ZYYAE1")
+	os.system("xdg-open https://wa.me/qr/+923118066577")
 
 	time.sleep(3)
 
