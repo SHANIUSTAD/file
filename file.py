@@ -817,23 +817,14 @@ imtiazak_ua_samsung = 'Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T; w
 imtiazak_ua_windows = 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]'
 
 banner="""\033[1;94m   
-
  /$$$$$$  /$$   /$$  /$$$$$$  /$$   /$$ /$$$$$$
-
  /$$__  $$| $$  | $$ /$$__  $$| $$$ | $$|_  $$_/
-
 | $$  \__/| $$  | $$| $$  \ $$| $$$$| $$  | $$  
-
 |  $$$$$$ | $$$$$$$$| $$$$$$$$| $$ $$ $$  | $$  
-
  \____  $$| $$__  $$| $$__  $$| $$  $$$$  | $$  
-
  /$$  \ $$| $$  | $$| $$  | $$| $$\  $$$  | $$  
-
 |  $$$$$$/| $$  | $$| $$  | $$| $$ \  $$ /$$$$$$
-
  \______/ |__/  |__/|__/  |__/|__/  \__/|______/
-
 \033[1;37m ｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡
 
 \033[1;94m ⇨AUTHOR    : Zeeshan Altaf
@@ -1052,7 +1043,7 @@ def ff():
 
 def dupcutter():
 
-	os.system("xdg-open https://wa.me/qr/03118066577")
+	os.system("xdg-open https://wa.me/qr/KCKOJU72ZYYAE1")
 
 	time.sleep(3)
 
