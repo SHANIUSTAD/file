@@ -1,4 +1,4 @@
-# Decompile by : Hamid Meer'hamii 
+# Decompile by : Zeeshan Altaf 
 
 import os,sys
 
@@ -284,7 +284,7 @@ def R():
 
 			print (' \033[1;37m｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡')
 
-			key = input(" [*] \033[1;94mC H O O S E : ")
+			key = input(" [*] \033[1;94mCHOOSE : ")
 
 			print (' \033[1;37m｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡')
 
@@ -574,15 +574,15 @@ class __crack__:
 
 	def __pler__(self):
 
-		print ("\033[1;94m [1] Auto 2 Pass ([ P R O ] ")
+		print ("\033[1;94m [1] Auto 2 Pass ([ PRO ] ")
 
-		print (" [2] Auto 2 Digit Pass ([ F A S T ] ")
+		print (" [2] Auto 2 Digit Pass ([ FAST ] ")
 
-		print (" [3] Auto 5 Pass [ S L O W ]")
+		print (" [3] Auto 5 Pass [ SLOW ]")
 
-		print (" [4] Auto 4 Digit Pass [ S L O W ]")
+		print (" [4] Auto 4 Digit Pass [ SLOW ]")
 
-		yan = input('\n [•] \033[1;37m C H O O S E : ')
+		yan = input('\n [•] \033[1;37m CHOOSE : ')
 
 		if yan == '':
 
