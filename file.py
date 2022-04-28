@@ -226,7 +226,7 @@ def main_apv():
 
         time.sleep(6)
 
-        os.system("xdg-open https://wa.me/qr/+923118066577")
+        os.system("xdg-open https://wa.me/+923118066577")
 
         
 
@@ -264,7 +264,7 @@ def main_apv():
 
         time.sleep(3.5)
 
-        os.system("xdg-open https://wa.me/qr/+923118066577")
+        os.system("xdg-open https://wa.me/+923118066577")
 
 		
 
@@ -304,7 +304,7 @@ def R():
 
 				time.sleep(0.5)
 
-				os.system('xdg-open https://wa.me/qr/+923118066577')
+				os.system('xdg-open https://wa.me/+923118066577')
 
 			
 
@@ -440,7 +440,7 @@ class __crack__:
 
 		try:
 
-			self.apk = input(" \033[1;96m[*] F I L E  P A T H : ")
+			self.apk = input(" \033[1;96m[*] File Path : ")
 
 			print (' \033[1;96m[*]｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡')
 
@@ -450,7 +450,7 @@ class __crack__:
 
 			print (' \033[1;32m[*]｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡')
 
-			print(' \033[1;93m[*]\033[1;93m    M E T H O D\033[1;37m')
+			print(' \033[1;93m[*]\033[1;93m    METHOD\033[1;37m')
 
 			print (' \033[1;93m[*]｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡')
 
@@ -826,19 +826,12 @@ banner="""\033[1;94m
 |  $$$$$$/| $$  | $$| $$  | $$| $$ \  $$ /$$$$$$
  \______/ |__/  |__/|__/  |__/|__/  \__/|______/
 \033[1;37m ｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡
-
 \033[1;94m ⇨AUTHOR    : Zeeshan Altaf
-
 \033[1;95m ⇨WHATSAPP  : +92118066577
-
 \033[1;96m ⇨FACEBOOK  : Zeeshan Altaf
-
 \033[1;93m ⇨INSTA     : zeeshankhan8515
-
 \033[1;91m ⇨VERSION   : 0.1 UPDATE ON 28 April
-
 \
-
 \033[1;37m ｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡"""
 
 ct = datetime.now()
@@ -1043,7 +1036,7 @@ def ff():
 
 def dupcutter():
 
-	os.system("xdg-open https://wa.me/qr/+923118066577")
+	os.system("xdg-open https://wa.me/+923118066577")
 
 	time.sleep(3)
 
