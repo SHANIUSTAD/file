@@ -666,15 +666,15 @@ class __crack__:
 
 						elif len(xz) == 2:
 
-							pwx = [name, xz[0]+xz[1], xz[0]+"123"]
+							pwx = [name, xz[0]+xz[1], xz[0]+"786"]
 
 						elif len(xz) == 3:
 
-							pwx = [name, xz[0]+xz[1], xz[0]+"123"]
+							pwx = [name, xz[0]+xz[1], xz[0]+"887"]
 
 						elif len(xz) == 4:
 
-							pwx = [name, xz[0]+xz[1], xz[0]+"123"]
+							pwx = [name, xz[0]+xz[1], xz[0]+"156"]
 
 						else:
 
@@ -708,23 +708,23 @@ class __crack__:
 
 						if len(xz) == 1:
 
-							pwx = [name, xz[0]+xz[1], xz[0]+"123", xz[0]+"12345"]
+							pwx = [name, xz[0]+xz[1], xz[0]+"123", xz[0]+"54321"]
 
 						elif len(xz) == 2:
 
-							pwx = [name, xz[0]+xz[1], xz[0]+"123", xz[0]+"12345"]
+							pwx = [name, xz[0]+xz[1], xz[0]+"456", xz[0]+"87654"]
 
 						elif len(xz) == 3:
 
-							pwx = [name, xz[0]+xz[1], xz[0]+"123", xz[0]+"12345"]
+							pwx = [name, xz[0]+xz[1], xz[0]+"789", xz[0]+"67890"]
 
 						elif len(xz) == 4:
 
-							pwx = [name, xz[0]+xz[1], xz[0]+"123", xz[0]+"12345"]
+							pwx = [name, xz[0]+xz[1], xz[0]+"123", xz[0]+"11806"]
 
 						else:
 
-							pwx = [name, xz[0]+xz[1], xz[0]+"123", xz[0]+"12345"]
+							pwx = [name, xz[0]+xz[1], xz[0]+"786", xz[0]+"15209"]
 
 						_ngentot_gratis_.submit(self.__mbasic__, uid, pwx)
 
